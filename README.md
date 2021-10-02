@@ -1,6 +1,10 @@
 # GittiGidiyor Java Spring Bootcamp Graduation Project
 Credit Application System with Spring Boot and ReactJS
 
+- #### Back-end Live On [https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html](https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html)
+
+- #### Front-end Live On [https://gittigidiyor-project-frontend.netlify.app/](https://gittigidiyor-project-frontend.netlify.app/)
+
 ## Used Technologies
 
 - Java 8
@@ -10,7 +14,7 @@ Credit Application System with Spring Boot and ReactJS
 - Swagger documentation
 - MapStruct
 - Lombok
-- PostgreSQL database
+- H2 database
 - JUnit Mockito
 - ReactJS for frontend
 - Maven
