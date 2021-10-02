@@ -33,13 +33,13 @@ Credit Application System with Spring Boot and ReactJS
 
 ```ssh
 
-git clone https://github.com/113-GittiGidiyor-Java-Spring-Bootcamp/gittigidiyor-graduation-project-nejlasahin.git
+git clone https://github.com/nejlasahin/credit-application-system.git
 
-$ cd gittigidiyor-graduation-project-nejlasahin/backend
+$ cd credit-application-system/backend
 $ mvn clean install
 $ mvn spring-boot:run
 
-$ cd gittigidiyor-graduation-project-nejlasahin/frontend
+$ cd credit-application-system/frontend
 $ npm install
 $ npm start
 
