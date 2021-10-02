@@ -2,10 +2,14 @@
 Credit Application System with Spring Boot and ReactJS
 
 - #### Back-end Live On [https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html](https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html)
-- 
+
+---
+
 - Login information
 - username: admin
 - password: password
+
+---
 
 - #### Front-end Live On [https://gittigidiyor-project-frontend.netlify.app/](https://gittigidiyor-project-frontend.netlify.app/)
 
