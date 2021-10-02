@@ -53,7 +53,7 @@ $ npm start
 ![endpoints](./docs/api-endpoint.PNG)
 
 
-# Ödev Son Teslim Tarihi : 29 Eylül - Saat: 23:00
+# Project Details
 
 ![odevpart1](https://user-images.githubusercontent.com/45206582/133460137-dbd5583e-1ac9-426f-a6f0-abf5983f6fd6.PNG)
 
