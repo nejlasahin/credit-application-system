@@ -1,7 +1,7 @@
 # GittiGidiyor Java Spring Bootcamp Graduation Project
 Credit Application System with Spring Boot and ReactJS
 
-- #### Backend Live On [https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html](https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html)
+- #### Backend live on [https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html](https://gittigidiyor-project-backend.herokuapp.com/swagger-ui.html)
 
 ---
 
@@ -11,7 +11,7 @@ Credit Application System with Spring Boot and ReactJS
 
 ---
 
-- #### Frontend Live On [https://gittigidiyor-project-frontend.netlify.app/](https://gittigidiyor-project-frontend.netlify.app/)
+- #### Frontend live on [https://gittigidiyor-project-frontend.netlify.app/](https://gittigidiyor-project-frontend.netlify.app/)
 
 ## Used Technologies
 
