@@ -21,7 +21,7 @@ class AuthenticationService {
     successfulLogin(username, password) {
         sessionStorage.setItem(USER_NAME_SESSION_ATTRIBUTE_NAME, username)
         sessionStorage.setItem(PASSWORD_SESSION_ATTRIBUTE_NAME, password)
-        window.location.href="/customer-settings"
+        window.location.href="/"
         this.createBasicAuthToken(username, password)
     }
 
