@@ -5,7 +5,7 @@ Credit Application System with Spring Boot and ReactJS
 
 ---
 
-- Login information
+#### Login information
 - username: admin
 - password: password
 
